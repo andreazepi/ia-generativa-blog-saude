@@ -8,7 +8,7 @@ Projeto de criação de conteúdo estratégico utilizando IA Generativa, unindo 
 Este repositório contém a documentação e o resultado final de um post de blog sobre alimentação saudável, desenvolvido como parte da formação em IA da Alura. O diferencial deste projeto é a aplicação de **Engenharia de Prompts** e **Mecanismos de Pesquisa** avançados.
 
 ## 🛠️ Metodologia e Estruturação
-Como estudante universitário, utilizo a IA diariamente para organizar pensamentos complexos e validar dados de pesquisa. Para este projeto, apliquei essa mesma lógica acadêmica para garantir que a IA não fosse apenas um gerador de texto, mas uma ferramenta de curadoria técnica.
+Como estudante universitário, utilizo a IA diariamente como ferramenta estratégica para organizar pensamentos complexos e validar dados de pesquisa. Para este projeto, apliquei essa mesma lógica acadêmica para garantir que a IA não fosse apenas um gerador de texto, mas uma ferramenta de curadoria técnica.
 
 ### Passo a Passo da Construção:
 1. **Estabelecimento de Persona (Roleplay):** Definição da IA como um Nutricionista Especialista para garantir autoridade no conteúdo.
@@ -47,7 +47,7 @@ Para manter o nível de açúcar no sangue estável e evitar o famoso "nevoeiro 
 ### 2. O Código Secreto das Cores (Fitonutrientes)
 As cores não servem apenas para deixar o prato bonito no Instagram. Elas indicam a presença de **fitonutrientes**, compostos que protegem suas células contra o estresse oxidativo causado pela rotina intensa.
 
-> **Legenda:** Resumo visual de como as cores dos alimentos impactam sua energia e foco.
+> **Legenda:** Resumo visual de como as cores dos alimentos impactam sua energia e foco. Este infográfico substitui a tabela devido a limitações de formatação do Markdown.
 > ![O Código Secreto das Cores](codigo_cores.png)
 
 ---
